@@ -5,21 +5,24 @@
 
 <!-- ![alt text](Cover.jpg)-->
 
-### My Tech Toolbox 🧰
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
+
 
 <p align="left">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/> 
-<img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" alt="angular" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png" alt="git" width="40" height="40"/> 
-<img src="https://www.pngix.com/pngfile/big/673-6739386_twitter-bootstrap-development-bootstrap-4-logo-png-transparent.png" alt="Bootstrap" width="40" height="40"/>
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="40" height="40"/> 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" height="40"/> 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css3" height="40"/> 
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="40" height="40"/>
-<img src="https://cdn0.iconfinder.com/data/icons/logos-21/40/AWSsvg-256.png" alt="AWS" width="40" height="40"/>
-<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css3" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>
+<img src="https://pngimg.com/uploads/photoshop/photoshop_PNG64.png" alt="Photoshop" height="50"/>
+<!--<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>-->
 </p>
 
  
@@ -34,22 +37,22 @@
 
 ---
 
-### 📊 Github Stats 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=SwarnadeepGhosh&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/SwarnadeepGhosh)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarnadeepGhosh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SwarnadeepGhosh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br />
-<br />
 
-
-### 📈 Visitors count
-
+#### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Visitors count
  ![Visitor Count](https://profile-counter.glitch.me/{SwarnadeepGhosh}/count.svg)
  
- ---
+<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;  Git profile Trophies</h3><br>
+<img src="https://github-profile-trophy.vercel.app/?username=SwarnadeepGhosh&theme=flat&no-bg=true" />
  
- ### 📈 Latest Projects
+ 
+ ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Latest Projects
  - [Login Registration system by Angular](https://github.com/SwarnadeepGhosh/Login-Page-Angular) -- [Live link](https://login-swarna.web.app/)
- -
+ - [TODO list using Angular](https://github.com/SwarnadeepGhosh/Todo-List-Angular) -- [Live link](https://swarnadeepghosh.github.io/todo/)
  - 
 ---
 [Twitter]: https://twitter.com/swarnadeep_97
@@ -59,27 +62,9 @@
 [Medium]: https://medium.com/@Swarnadeep
 [Facebook]: https://www.facebook.com/swarnadeep.ghosh.10
 
-I'm Assistant System Engineer at [Tata Consultancy Services Ltd](https://www.tcs.com/) in Kolkata, India. Visit [my portfolio](https://swarnadeepghosh.github.io/)!
-<br />
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br />
-
-<!--
-📈 I’m learning how to [analyze data]
-
-🎴 I've recently started playing Magic the Gathering
-
-💬 Ask me about [Angular](https://angular.io/).
-
-❤ I love [reading](https://www.goodreads.com/user/show/72249220-ruth) and [running](https://www.strava.com/athletes/roldja).
-
-🐕 I have a pet Pomsky named [Lyra](https://i.redd.it/ui7yd6c2wiu61.jpg).
-<br />
-<br />
--->
-
-------
-Credit: [SwarnadeepGhosh](https://github.com/SwarnadeepGhosh)
-Last Edited on: 23/05/2021
-
+<div align="center">
+<h4>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
+ <i>Credit: <a href="https://github.com/SwarnadeepGhosh">SwarnadeepGhosh</a> | Last Edited on: 23/05/2021</i>
+ </div>
+<!-- 📊 📈 🎴 💬 ❤ 🐕 <br /> -->
 
