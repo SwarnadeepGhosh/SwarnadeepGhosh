@@ -13,6 +13,7 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
@@ -29,7 +30,7 @@
 
  
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Angular, Node and Mongo DB
+- 🌱 I’m currently learning Angular and Spring Boot
 - 👯 I’m looking to collaborate on Open Source Development projects
 - 🤔 I’m looking for help with Mentorings and Roadmaps
 - 💬 Ask me about Front End Development, GIT and UI Design, 
