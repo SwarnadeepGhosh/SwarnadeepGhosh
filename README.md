@@ -7,14 +7,14 @@
 
 <!-- ![alt text](Cover.jpg)-->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
 
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css3" height="50"/>
@@ -37,6 +37,16 @@
 - 📫 How to reach me: Message me on [Linkedin][Linkedin]
 <!--- ⚡ Fun fact: ...-->
 
+
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Latest Developed Projects
+ - [CourseAPI-Backend](https://github.com/SwarnadeepGhosh/CourseAPI-Spring-Starter) -- [Live link](https://courseapi-spring-boot.herokuapp.com/swagger-ui.html)
+ - [Login Registration system by Angular](https://github.com/SwarnadeepGhosh/Login-Page-Angular) -- [Live link](https://login-swarna.web.app/)
+ - [TODO list using Angular](https://github.com/SwarnadeepGhosh/Todo-List-Angular) -- [Live link](https://swarnadeepghosh.github.io/todo/)
+ - [COVID19 Data Analysis](https://github.com/SwarnadeepGhosh/COVID19-Data-Analysis)
+ - [Technology-Blog using basic HTML,CSS](https://github.com/SwarnadeepGhosh/Technology-Blog) -- [Live link](https://swarnadeepghosh.github.io/Technology-Blog)
+ - [DVD Rental SQL Project](https://github.com/SwarnadeepGhosh/DVD-Rental-SQL-Project)
+ - [Weather Forecast by Python and MetaWeather API](https://github.com/SwarnadeepGhosh/Python-Small-Projects/blob/master/weather_forecast_by_MetaWeather_API.py)
+
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
@@ -50,15 +60,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SwarnadeepGhosh&theme=flat&no-bg=true" />
  
  
- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Latest Projects
- - [Login Registration system by Angular](https://github.com/SwarnadeepGhosh/Login-Page-Angular) -- [Live link](https://login-swarna.web.app/)
- - [TODO list using Angular](https://github.com/SwarnadeepGhosh/Todo-List-Angular) -- [Live link](https://swarnadeepghosh.github.io/todo/)
- - [COVID19 Data Analysis](https://github.com/SwarnadeepGhosh/COVID19-Data-Analysis)
- - [Technology-Blog using basic HTML,CSS](https://github.com/SwarnadeepGhosh/Technology-Blog) -- [Live link](https://swarnadeepghosh.github.io/Technology-Blog)
- - [DVD Rental SQL Project](https://github.com/SwarnadeepGhosh/DVD-Rental-SQL-Project)
- - [Weather Forecast by Python and MetaWeather API](https://github.com/SwarnadeepGhosh/Python-Small-Projects/blob/master/weather_forecast_by_MetaWeather_API.py)
 
----
+
 [Twitter]: https://twitter.com/swarnadeep_97
 [Portfolio]: https://swarnadeepghosh.github.io
 [gmail]: mailto:swarna.lyf@gmail.com
