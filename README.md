@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Swarnadeep Ghosh][Portfolio]
+# [Hi, I am Swarnadeep Ghosh][Portfolio]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
 [<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
@@ -6,8 +6,8 @@
 <img height="30" src="https://komarev.com/ghpvc/?username=SwarnadeepGhosh&color=blueviolet" />
 
 <!-- ![alt text](Cover.jpg)-->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My Tech Toolbox 🧰
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="1px"> **** -->
+## <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="1px"> --> &nbsp; My Tech Toolbox 🧰
 
 
 <p align="left">
@@ -38,7 +38,7 @@
 <!--- ⚡ Fun fact: ...-->
 
 
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Latest Developed Projects
+ ## <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> --> &nbsp; Latest Developed Projects
  - [CourseAPI-Backend](https://github.com/SwarnadeepGhosh/CourseAPI-Spring-Starter) -- [Live link](https://courseapi-spring-boot.herokuapp.com/swagger-ui.html)
  - [Login Registration system by Angular](https://github.com/SwarnadeepGhosh/Login-Page-Angular) -- [Live link](https://login-swarna.web.app/)
  - [TODO list using Angular](https://github.com/SwarnadeepGhosh/Todo-List-Angular) -- [Live link](https://swarnadeepghosh.github.io/todo/)
@@ -49,14 +49,14 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Activeness
+### <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">--> &nbsp; Git Activeness
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarnadeepGhosh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SwarnadeepGhosh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 
  
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Git Profile Trophies
+### <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">--> &nbsp; Git Profile Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=SwarnadeepGhosh&theme=flat&no-bg=true" />
  
  
