@@ -37,16 +37,6 @@
 - 📫 How to reach me: Message me on [Linkedin][Linkedin]
 <!--- ⚡ Fun fact: ...-->
 
-
- ## <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> --> &nbsp; Latest Developed Projects
- - [CourseAPI-Backend](https://github.com/SwarnadeepGhosh/CourseAPI-Spring-Starter) -- [Live link](https://courseapi-spring-boot.herokuapp.com/swagger-ui.html)
- - [Login Registration system by Angular](https://github.com/SwarnadeepGhosh/Login-Page-Angular) -- [Live link](https://login-swarna.web.app/)
- - [TODO list using Angular](https://github.com/SwarnadeepGhosh/Todo-List-Angular) -- [Live link](https://swarnadeepghosh.github.io/todo/)
- - [COVID19 Data Analysis](https://github.com/SwarnadeepGhosh/COVID19-Data-Analysis)
- - [Technology-Blog using basic HTML,CSS](https://github.com/SwarnadeepGhosh/Technology-Blog) -- [Live link](https://swarnadeepghosh.github.io/Technology-Blog)
- - [DVD Rental SQL Project](https://github.com/SwarnadeepGhosh/DVD-Rental-SQL-Project)
- - [Weather Forecast by Python and MetaWeather API](https://github.com/SwarnadeepGhosh/Python-Small-Projects/blob/master/weather_forecast_by_MetaWeather_API.py)
-
 ---
 
 ### <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">--> &nbsp; Git Activeness
