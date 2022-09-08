@@ -35,21 +35,22 @@
 - 🤔 I’m looking for help with Mentorings and Roadmaps
 - 💬 Ask me about Front End Development, GIT and UI Design, 
 - 📫 How to reach me: Message me on [Linkedin][Linkedin]
-<!--- ⚡ Fun fact: ...-->
 
 ---
 
-### <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">--> &nbsp; Git Activeness
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SwarnadeepGhosh&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SwarnadeepGhosh&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnadeepGhosh&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarnadeepGhosh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SwarnadeepGhosh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SwarnadeepGhosh&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
- 
-### <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">--> &nbsp; Git Profile Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=SwarnadeepGhosh&theme=flat&no-bg=true" />
- 
- 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 [Twitter]: https://twitter.com/swarnadeep_97
