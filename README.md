@@ -97,9 +97,6 @@ ___
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="zoom: 80%;" />
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="312px"/>
-
 
 <!-- Constants -->
 [Twitter]: https://twitter.com/swarnadeep_97
@@ -120,6 +117,6 @@ ___
 
 <div align="center">
 <b>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</b><br>
- <i>Credit: <a href="https://github.com/SwarnadeepGhosh">SwarnadeepGhosh</a> | Last Edited on: 11/09/2022</i>
+ <i>Credit: <a href="https://github.com/SwarnadeepGhosh">SwarnadeepGhosh</a> | Last Edited on: 05/07/2023</i>
  </div>
 
